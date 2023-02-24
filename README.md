@@ -1,1 +1,1 @@
-# Collection of Useful .bat Files for Widnows OS
+# Collection of Useful .bat Files for Windows OS
